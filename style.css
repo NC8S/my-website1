@@ -6,7 +6,7 @@
   height: 50em;
   scroll-margin-top: 120px;
 }
-
+ 
 #about {
   display: flex;
   justify-content: center;
@@ -150,4 +150,5 @@ header a:hover::before {
   width: 85%;
   background-color: hsl(0, 0%, 100%);
 }
+
 
