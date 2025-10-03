@@ -89,6 +89,10 @@ footer p {
   margin: 5px 0;
 }
 
+footer a{
+  text-decoration: none;
+}
+
 header {
   background-color: hsl(200, 13%, 9%, .9);
   backdrop-filter: blur(10px);
@@ -146,3 +150,4 @@ header a:hover::before {
   width: 85%;
   background-color: hsl(0, 0%, 100%);
 }
+
